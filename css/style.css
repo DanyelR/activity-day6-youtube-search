@@ -1,0 +1,29 @@
+*{
+	box-sizing: border-box;
+	margin: 0px;
+	padding: 0px;
+}
+
+.search{
+	display: flex;
+	justify-content: center;
+}
+
+}
+.conten{
+	width: 565px;
+	height: 32px;
+	border: 1px solid rgb(204, 204, 204);
+	border-radius: 2px;
+}
+
+.botuno{
+	width: 65px;
+	height: 32px;
+	border: 1px solid rgb(204, 204, 204);
+
+
+}
+.botuno:hover{
+	background-color: rgb(204, 204, 204);
+}
